@@ -1,0 +1,19 @@
+.d {
+    border-style: solid;
+    border-color: black;
+}
+.alert{
+margin-left:20px;
+margin-right:20px;
+margin-top: 20px;
+}
+.form-label{
+    border:0;
+}
+.navbar{
+    border-style:solid;
+    border-color:rgb(203, 203, 203);
+}
+form{
+    width:85%;
+}
